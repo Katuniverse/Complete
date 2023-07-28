@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Eucalyptus",
+        "category": "Outdoor",
+        "city": "Twentynine Palms",
+        "state": "Australia",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Myrtaceae",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Eucalyptus is part of the shrubs and tall trees of the myrtle family, native to Australia, Tasmania, and nearby islands. They are commonly known as gum trees or stringybark trees. Many species are cultivated widely throughout the temperate regions of the world as shade trees or in forestry plantations. This plant is an outdoor plant that requires a sunny spot with well-draining soil. You need to water your eucalyptus plant regularly and prune them to maintain their good health.",
+        "imageName": "eucalyptus"
+    },
+    {
+        "name": "Ficus Bonsai",
+        "category": "Indoor",
+        "city": "Port Alsworth",
+        "state": "Southwest Asia",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Plantae",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "The Ficus genus belongs to the family of mulberry plants or Moraceae, and it is considered to be a popular indoor plant species for beginners in the art of bonsai. They can be found on every continent in the tropic regions and are very suitable for indoor bonsai. The ficus is an indoor tree that does not endure frosty conditions. It needs a lot of light, preferably full sunlight so a shady place would not be ideal. They need to be watered on observation and not everyday. They can handle ocassional under or over watering. The plant needs to be pruned to maintain its shape. Prune up to 6-8 leaves after every two has grown.",
+        "imageName": "bonsai"
+    },
+    {
+        "name": "Money Tree",
+        "category": "Popular",
+        "city": "Skagway",
+        "state": "China",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Crassula Ovata",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "description": "Pilea peperomioides is native to China and has been known in the western world since the early 20th century. They multiply and produce many offshoots around their base. Chinese money plants have health benefits as they are prolific oxygen producers, day and night, purifying the air that we breathe which makes the bedroom and boardroom the perfect location for the plant's placement. These plants thrive best in bright light, the more it is exposed, the more it will grow and thrive. This plant requires moderate to bright light, avoiding direct sunlight. This plant needs to be watered about once a week and the water needs to be poured until the water drains right out of the drainage holes at the bottom.",
+        "imageName": "moneytree"
+    },
+    {
+        "name": "Spider Plant",
+        "category": "Indoor",
+        "city": "Browning",
+        "state": "South Africa",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Asparagaceae",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "The Spider Plant, Chlorophytum comosum is the most common and well known of all houseplants. It is popular with beginners as they are easy to grow and propagate. they can tolerate being neglected and can thrive in almost any type of condition. They are native to the coastal areas of South Africa, has narrow, strap-shaped leaves arising from a central point. They can grow about 12-15 inches tall. Their thick and fleshy roots and rhizomes evolved to store water, allowing it to survive inconsistent watering. They are very easy to grow indoors in medium to bright light throughout the year. it does well with average humidity and cool to average temperature, even though it can tolerate warmer conditions. A general purpose potting soil or soilless medium is required. Allow the soil to dry between waterings.",
+        "imageName": "spider"
+    },
+    {
+        "name": "String of Pearls",
+        "category": "Indoor",
+        "city": "Twin Lakes",
+        "state": "Southwest Africa",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Asteraceae",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "The String of Pearls is an unusual succulent with spherical leaves from South Africa named after British botanist Gordon Rowley. This plant is native to dry areas of the Eastern Cape of South Africa. This plant grows from weak surface roots producing trailing stems up to three feet long on the ground which can root where they touch soil to form dense mats. They often grow under bushes or between rocks which provide protection from intesne sunlight. This plant is placed as a hanging plant as a houseplant in a frost-free climates. these plants are relatively low maintenance, need bright light and well-drained soil, and infrequent watering. They need a very well-draining soil mix such as a cactus mix or add inorganic materials sucb as small pea gravel, sharp sand, poultry grit or pumice to potting medium.",
+        "imageName": "string"
+    },
+    {
+        "name": "Orchid",
+        "category": "Popular",
+        "city": "West Glacier",
+        "state": "Greece",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Orchidaceae",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "description": "Orchidaceae is a member of Asparagales, an order of monocotyledonous flowering plants that also include the asparagus and iris families. the word orchid is derived from the Greek word for testicle because of the shape of the root tubers in some species of the genus Orchis. They are generally terrestrial or epiphytic herbs or rather growing on other plants rather than rooted in soil. most species manufacture their own food, but some live on dead organic material or are helped to obtain nourishment by a fungus living in their roots. Orchids need bright but indirect light, an east or west-facing windowsill is often perfect, too much light can scorch the leaves. Most orchids come from humid, tropical regions, so they need a humid atmosphere. The foliage must be misted every two to three days using tepid water but avoiding spraying the flowers.",
+        "imageName": "orchid"
+    },
+    {
+        "name": "Cordyline",
+        "category": "Outdoor",
+        "city": "Eaking",
+        "state": "New Zealand",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Asparagaceae",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "description": "This plant belongs to their own genus, they are in most nurseriesnand in all but the warmest regions and should only be grown indoors as they do make excellent houseplants.This plant is native to pacific islands and parts of SouthEast Asia. there are about fifteen species of this evergreen and woody perennial.They just need warmth, bright, and indirect sunlight, rich soil, and regular watering.",
+        "imageName": "cordyline"
+    },
+    {
+        "name": "Snake Plant",
+        "category": "Popular",
+        "city": "Icy Bay",
+        "state": "West Central Africa",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Asparagaceae",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "description": "Also known as the Sansevieria or the Mother-in-Law's tongue/Snake plant. this plant is popular for its upright and erect leaf which fits into almost all locations. native to the tropics of West Africa. It is known to exchange oxygen and carbon dioxide using the crassulacean acid metabolism process, which allows them to withstand drought. It is predominantly used as an ornamental plant, outdoors in warmer climates and indoors as a houseplant in cooler climates. As a houseplant it is tolerant of low light levels and irregular watering and during the winter it needs watering every couple of months.",
+        "imageName": "snake"
+    },
+    {
+        "name": "Jade Plant",
+        "category": "Indoor",
+        "city": "Willow",
+        "state": "South Africa",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Crassula Argentea",
+        "coordinates": {
+            "longitude": -150.086103,
+            "latitude": 61.694334
+        },
+        "description": "This plant grows naturally in broad areas from east to west in South Africa. It can usually withstand a wide range of conditions. it tolerates low levels of illumination and survives repeated dessication. To optimise health it would be ideal for it to be placed in a sunny window with an adequate water supply. This plant requires about four hours of direct sunlight daily indoors. the plant should be grown in a potting mix that drains well, such as one part shredded pea moss, one part soil and one part sand. Water your plant sparingly around the May and August months. Allow the soil to dry out completely between waterings. gradually increase the frequency of watering around September through February. Start decreasing the waterings starting in March. Too much water will cause leaves to split and too lttle water will cause the whole stems to drop.",
+        "imageName": "jade"
+    },
+    {
+        "name": "Peperomia",
+        "category": "Indoor",
+        "city": "Newhalem",
+        "state": "South America",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Piperaceae",
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "description": "Peperomia come in many different varieties to choose from, bushy to trailing, upright or cascading and from fleshy succulent plants to those less so. Many peperomia grow on other living and non-living things, this makes them what is called epiphytes or lithophytes. They don't need bright light which makes them the perfect indoor plants. They don't ever want to be in full sun although the thick fleshy leaves variety will need more light than the thinner leaved. Care depends on the species you have chosen to grow. Let them dry out completely between waterings. Clay pots are most ideal for them as they allow water to escape through the porous sides of the pot. They should be kept in a fast-draining potting medium for best results. The plant should be kept at a temperature of above 50 degrees farenheit.",
+        "imageName": "peperomia"
+    },
+    {
+        "name": "Hydrangea",
+        "category": "Outdoor",
+        "city": "Chincoteague",
+        "state": "America",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Hydrangeaceae",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "description": "The hydrangea was first cultivated in Japan but ancient hydrangea fossils date back to 40-65 million years ago and have been discovered in North America. They have not appeared in Europe until 1736 when a colonist brought a North American variety to England. These flowers are mainly used for landscaping as their petals contain low levels of cyanide making them inedible. But the hydrangea serrata variety is drank as a sweet tea by Buddhists as part of a cleansing ritual. The tea is said to help treat autoimmune disorders as well as malaria, kidney stones and an enlarged prostate. Hydrangeas prefer partial shade and should not be planted in full sun. They should also be well-drained in soil that is rich in organic matter, and they should also be placed in soil that has good drainage as they do not like to be in soggy soil. Water your plants generously once a week. They should be fertilized with a balanced fertilizer that contains equal parts nitrogen, phosphorus, and potassium. This fertilizer should be applied in early spring and again in midsummer.",
+        "imageName": "hydrangea"
+    },
+    {
+        "name": "Yucca",
+        "category": "Indoor",
+        "city": "Errol",
+        "state": "South America",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Asparagaceae",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Yucca, genus of about 40 species of plants derived from the agave subfamily of the asparagus family, native to southern North America. Most of the species are stemless, with a rosette of stiff sword-shaped leaves at the base and clusters of waxy white flowers. This plant has various uses including soap which native Americans. The yucca root would be pounded and whisked in cold water to create a soapy lather which was then used to clean clothes, hair and themselves, as well as for spiritual cleansing. These plants should be planted outside in the early spring and not too close to the home as they do have invasive root systems that can damage home foundations, sidewalks and underground pipes. As an indoor plant, they are not difficult to grow, they thrive on neglect versus too much attention. They are also easily overwatered and in the right conditions, can live up to five years as houseplants. They need a bright corner with relatively low humidity. They will lose their lower leaves over time, giving the plant a pleasant tree-like appearance.",
+        "imageName": "yucca"
+    }
+]
